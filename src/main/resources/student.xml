@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student><id>1</id><name>Rana Khalid</name><age>22</age><averageGrade>8.7</averageGrade><active>true</active>
+<subjects>
+<subject><id>1</id><name>Java</name><grade>9.0</grade><passed>true</passed></subject>
+<subject><id>2</id><name>Web Services</name><grade>8.5</grade><passed>true</passed></subject>
+</subjects></student>
